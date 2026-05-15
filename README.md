@@ -783,49 +783,9 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](
 
 ❌ Sorumluluk reddi: Yazılım "olduğu gibi" sağlanır.
 
----
-
-## 👤 Yazar & Kontakt
-
-**Must-Gather Log Analyzer** - OpenShift/Kubernetes Log Analysis Tool
-
-- 📧 Email: [your-email@example.com]
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
-## 🙏 Teşekkürler
-
-- React, TypeScript, Vite topluluğu
-- Lucide icons kütüphanesi
-- Tailwind CSS framework
-- Tüm contributors ve issues açan kullanıcılar
-
----
-
-## 🎯 Roadmap
-
-### v0.1.0 (Gelecek)
-
-- [ ] Dark/Light tema seçeneği
-- [ ] Advanced regex builder UI
-- [ ] Log'ları tag'leyerek kaydetme
-- [ ] Bookmarks / Favorites
-
-### v0.2.0
-
-- [ ] WebWorker ile parsing (büyük dosyalar)
-- [ ] SQL-like query language
-- [ ] Custom severity keywords
-- [ ] Collaboration features (URL sharing)
-
-### v1.0.0
-
-- [ ] E2E test coverage
-- [ ] Performance benchmarking
-- [ ] Desktop app (Electron)
-- [ ] Cloud integration (AWS S3, GCS)
 
 ---
 
